@@ -1,0 +1,65 @@
+\settowidth{\versewidth}{como aquel Euclides}
+\poemtitle{Un largo camino de amor}
+
+\begin{verse}[\versewidth]
+Oye tú
+joven muchacho
+hermoso efebo
+de ojos
+claros
+
+¿Serás otro
+mirón
+como aquel Euclides
+en Cesárea,
+amigo?
+
+Cada vez
+que mi aliento
+te seduce
+y mi lengua
+en tu boca
+
+Tu me amas
+y yo te amo
+sin sentimientos de
+atadura,
+te digo
+
+Camino pues
+por los montes
+de azúcar y miel
+y nos amamos
+tiernamente
+ 
+Camina alerta
+por los morros
+no te vayas a
+tropezar
+y caigas
+
+Camina transeúnte
+mi pecho desnudo
+sentirá tu piel
+recorre mi camino
+estrecho
+
+Ya se nos fue el día
+ya la noche nos cobija
+ya los dedos transitarán
+extensiones epidérmicas
+y mis versos
+no dejarán duda
+de nuestro amor 
+infinito
+y ardiente
+y de cualquier
+clase
+
+Salen pues
+a despedirnos
+los amigos que nos ven partir
+solitarios hacia el bosque
+
+Adiós, amigos míos, adiós.
+\end{verse}
