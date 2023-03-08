@@ -1,11 +1,9 @@
-\settowidth{\versewidth}{como aquel Euclides}
-\poemtitle{Un largo camino de amor}
+Un largo camino de amor
 
-\begin{verse}[\versewidth]
 Oye tú
 joven muchacho
 hermoso efebo
-de ojos
+de ojos 
 claros
 
 ¿Serás otro
@@ -31,10 +29,10 @@ por los montes
 de azúcar y miel
 y nos amamos
 tiernamente
- 
+
 Camina alerta
 por los morros
-no te vayas a
+no te vayas a 
 tropezar
 y caigas
 
@@ -48,11 +46,11 @@ Ya se nos fue el día
 ya la noche nos cobija
 ya los dedos transitarán
 extensiones epidérmicas
-y mis versos
+y mis versos 
 no dejarán duda
 de nuestro amor 
 infinito
-y ardiente
+y ardiente 
 y de cualquier
 clase
 
@@ -62,4 +60,4 @@ los amigos que nos ven partir
 solitarios hacia el bosque
 
 Adiós, amigos míos, adiós.
-\end{verse}
+
