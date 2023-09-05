@@ -1,7 +1,7 @@
 # poemas
 ## Poemas de Edgar Rivera.
 
-Tratando de usar github con mis 3 poemas.
+Tratando de usar github con mis poemas.
 Veamos si esto funciona
 
 Despues de varios intentos logré que github funcionara.
